@@ -97,6 +97,7 @@ Niggesh
 - Hi! I am Jaspreet and i'm here to Rock & Roll haha
 - [Dibyendu Bhattacharya](https://github.com/Debu20051115) **Have a good day to anyone who is reading** 
 - [Miguel Rubiano](https://github.com/xArkqngel) **Hello, I'm Miguel From Colombia and this is my first contribution.** Chocolate con queso
+- [Vitalii Zghonnik](https://github.com/vitaliizghonnik) **Hello Everyone! I'm Vitalii and I am thrilled to contribute to the Open-source project. More will be😉**
 - [Rishi Srivastava](https://github.com/Lordgrim999)
 - [morenzo](https://github.com/morenzorafael)
 - [Arshiyan Shaikh](https://github.com/itsshaikhaj)
